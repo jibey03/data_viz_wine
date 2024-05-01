@@ -1,0 +1,336 @@
+﻿tri;annee;perimetre_juridique;legal_perimeter;perimetre_spatial;spatial_perimeter;filiere;sector;type_d_energie;type_of_energy;capacite_maximale_de_production;unite;methode_de_consolidation;consolidation_method
+1;2022;Groupe EDF;EDF group;Afrique du Sud;South Africa;Éolien;Wind;Électrique;Electric;73.143;MWe;Nette;Net
+2;2022;Groupe EDF;EDF group;Allemagne;Germany;Hydraulique;Hydraulic;Électrique;Electric;75.5;MWe;Nette;Net
+3;2022;Groupe EDF;EDF group;Allemagne;Germany;Éolien;Wind;Électrique;Electric;173.685383716855;MWe;Nette;Net
+4;2022;Groupe EDF;EDF group;Belgique;Belgium;Nucléaire;Nuclear;Électrique;Electric;697.8708;MWe;Nette;Net
+5;2022;Groupe EDF;EDF group;Belgique;Belgium;Gaz;Gas;Électrique;Electric;828.91314;MWe;Nette;Net
+6;2022;Groupe EDF;EDF group;Belgique;Belgium;Hydraulique;Hydraulic;Électrique;Electric;45.851703;MWe;Nette;Net
+7;2022;Groupe EDF;EDF group;Belgique;Belgium;Éolien;Wind;Électrique;Electric;452.463602;MWe;Nette;Net
+8;2022;Groupe EDF;EDF group;Belgique;Belgium;Solaire;Solar;Électrique;Electric;0.2251064;MWe;Nette;Net
+9;2022;Groupe EDF;EDF group;Belgique;Belgium;Fioul;Fioul;Chaleur;Heat;10.01998;MWth;Nette;Net
+10;2022;Groupe EDF;EDF group;Belgique;Belgium;Gaz;Gas;Chaleur;Heat;36.71705;MWth;Nette;Net
+11;2022;Groupe EDF;EDF group;Brésil;Brazil;Gaz;Gas;Électrique;Electric;826.8;MWe;Nette;Net
+12;2022;Groupe EDF;EDF group;Brésil;Brazil;Hydraulique;Hydraulic;Électrique;Electric;204.96;MWe;Nette;Net
+13;2022;Groupe EDF;EDF group;Brésil;Brazil;Éolien;Wind;Électrique;Electric;526.45;MWe;Nette;Net
+14;2022;Groupe EDF;EDF group;Brésil;Brazil;Solaire;Solar;Électrique;Electric;199.2625;MWe;Nette;Net
+15;2022;Groupe EDF;EDF group;Canada;Canada;Éolien;Wind;Électrique;Electric;653.59;MWe;Nette;Net
+16;2022;Groupe EDF;EDF group;Canada;Canada;Solaire;Solar;Électrique;Electric;42.4;MWe;Nette;Net
+17;2022;Groupe EDF;EDF group;République populaire de Chine;China;Nucléaire;Nuclear;Électrique;Electric;1050.0;MWe;Nette;Net
+18;2022;Groupe EDF;EDF group;République populaire de Chine;China;Charbon;Coal;Électrique;Electric;1773.8;MWe;Nette;Net
+19;2022;Groupe EDF;EDF group;République populaire de Chine;China;Éolien;Wind;Électrique;Electric;442.43425;MWe;Nette;Net
+20;2022;Groupe EDF;EDF group;République populaire de Chine;China;Solaire;Solar;Électrique;Electric;136.4714;MWe;Nette;Net
+21;2022;Groupe EDF;EDF group;République populaire de Chine;China;Biomasse;Biomass;Électrique;Electric;22.8;MWe;Nette;Net
+22;2022;Groupe EDF;EDF group;Espagne;Spain;Gaz;Gas;Électrique;Electric;5.046601686;MWe;Nette;Net
+23;2022;Groupe EDF;EDF group;Espagne;Spain;Solaire;Solar;Électrique;Electric;9.507783273;MWe;Nette;Net
+24;2022;Groupe EDF;EDF group;Espagne;Spain;Gaz;Gas;Chaleur;Heat;122.002434822;MWth;Nette;Net
+25;2022;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Nucléaire;Nuclear;Électrique;Electric;61370.0;MWe;Nette;Net
+26;2022;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Charbon;Coal;Électrique;Electric;1177.6;MWe;Nette;Net
+27;2022;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Fioul;Fioul;Électrique;Electric;3487.837282;MWe;Nette;Net
+28;2022;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Gaz;Gas;Électrique;Electric;3516.3548264;MWe;Nette;Net
+29;2022;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Hydraulique;Hydraulic;Électrique;Electric;20527.351072;MWe;Nette;Net
+30;2022;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Géothermie;Geothermal;Électrique;Electric;0.8864;MWe;Nette;Net
+31;2022;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Éolien;Wind;Électrique;Electric;1929.57356;MWe;Nette;Net
+32;2022;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Solaire;Solar;Électrique;Electric;534.366992;MWe;Nette;Net
+33;2022;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Biomasse;Biomass;Électrique;Electric;205.40004;MWe;Nette;Net
+34;2022;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Énergie marine;Marine energy;Électrique;Electric;240.0;MWe;Nette;Net
+35;2022;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Fioul;Fioul;Chaleur;Heat;917.4492;MWth;Nette;Net
+36;2022;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Gaz;Gas;Chaleur;Heat;19952.62638691;MWth;Nette;Net
+37;2022;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Autres ENR;Other Renewable Energies;Chaleur;Heat;2377.161572;MWth;Nette;Net
+38;2022;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Divers;Various;Chaleur;Heat;5661.091306;MWth;Nette;Net
+39;2022;Groupe EDF;EDF group;Grèce;Greece;Gaz;Gas;Électrique;Electric;406.1706;MWe;Nette;Net
+40;2022;Groupe EDF;EDF group;Grèce;Greece;Éolien;Wind;Électrique;Electric;238.200702;MWe;Nette;Net
+41;2022;Groupe EDF;EDF group;Grèce;Greece;Solaire;Solar;Électrique;Electric;57.0889702;MWe;Nette;Net
+42;2022;Groupe EDF;EDF group;Inde;India;Éolien;Wind;Électrique;Electric;432.1;MWe;Nette;Net
+43;2022;Groupe EDF;EDF group;Inde;India;Solaire;Solar;Électrique;Electric;327.675;MWe;Nette;Net
+44;2022;Groupe EDF;EDF group;Israël;Israel;Solaire;Solar;Électrique;Electric;295.758535;MWe;Nette;Net
+45;2022;Groupe EDF;EDF group;Italie;Italy;Gaz;Gas;Électrique;Electric;4922.56183134383;MWe;Nette;Net
+46;2022;Groupe EDF;EDF group;Italie;Italy;Hydraulique;Hydraulic;Électrique;Electric;930.02442704356;MWe;Nette;Net
+47;2022;Groupe EDF;EDF group;Italie;Italy;Éolien;Wind;Électrique;Electric;530.178954;MWe;Nette;Net
+48;2022;Groupe EDF;EDF group;Italie;Italy;Solaire;Solar;Électrique;Electric;46.05868649832;MWe;Nette;Net
+49;2022;Groupe EDF;EDF group;Italie;Italy;Biomasse;Biomass;Électrique;Electric;2.9034396;MWe;Nette;Net
+50;2022;Groupe EDF;EDF group;Italie;Italy;Fioul;Fioul;Chaleur;Heat;4.8108867;MWth;Nette;Net
+51;2022;Groupe EDF;EDF group;Italie;Italy;Gaz;Gas;Chaleur;Heat;2751.01588231921;MWth;Nette;Net
+52;2022;Groupe EDF;EDF group;Italie;Italy;Autres ENR;Other Renewable Energies;Chaleur;Heat;27.1045998;MWth;Nette;Net
+53;2022;Groupe EDF;EDF group;Italie;Italy;Divers;Various;Chaleur;Heat;48.68217;MWth;Nette;Net
+54;2022;Groupe EDF;EDF group;Mexique;Mexico;Éolien;Wind;Électrique;Electric;162.0;MWe;Nette;Net
+55;2022;Groupe EDF;EDF group;Mexique;Mexico;Solaire;Solar;Électrique;Electric;119.6;MWe;Nette;Net
+56;2022;Groupe EDF;EDF group;Pologne;Poland;Charbon;Coal;Électrique;Electric;11.6604;MWe;Nette;Net
+57;2022;Groupe EDF;EDF group;Pologne;Poland;Fioul;Fioul;Électrique;Electric;0.369778;MWe;Nette;Net
+58;2022;Groupe EDF;EDF group;Pologne;Poland;Éolien;Wind;Électrique;Electric;68.0;MWe;Nette;Net
+59;2022;Groupe EDF;EDF group;Pologne;Poland;Divers;Various;Électrique;Electric;18.668792;MWe;Nette;Net
+60;2022;Groupe EDF;EDF group;Pologne;Poland;Charbon;Coal;Chaleur;Heat;627.193551;MWth;Nette;Net
+61;2022;Groupe EDF;EDF group;Pologne;Poland;Gaz;Gas;Chaleur;Heat;114.028995;MWth;Nette;Net
+62;2022;Groupe EDF;EDF group;Pologne;Poland;Divers;Various;Chaleur;Heat;69.958;MWth;Nette;Net
+63;2022;Groupe EDF;EDF group;Suisse;Switzerland;Hydraulique;Hydraulic;Électrique;Electric;121.65684;MWe;Nette;Net
+64;2022;Groupe EDF;EDF group;Royaume-Uni;United Kingdom;Nucléaire;Nuclear;Électrique;Electric;4706.4;MWe;Nette;Net
+65;2022;Groupe EDF;EDF group;Royaume-Uni;United Kingdom;Charbon;Coal;Électrique;Electric;1015.0;MWe;Nette;Net
+66;2022;Groupe EDF;EDF group;Royaume-Uni;United Kingdom;Éolien;Wind;Électrique;Electric;380.758696;MWe;Nette;Net
+67;2022;Groupe EDF;EDF group;Royaume-Uni;United Kingdom;Solaire;Solar;Électrique;Electric;15.77;MWe;Nette;Net
+68;2022;Groupe EDF;EDF group;États-Unis;United States of America;Éolien;Wind;Électrique;Electric;3241.2;MWe;Nette;Net
+69;2022;Groupe EDF;EDF group;États-Unis;United States of America;Solaire;Solar;Électrique;Electric;1116.4595;MWe;Nette;Net
+70;2022;Groupe EDF;EDF group;Viêt Nam;Vietnam;Gaz;Gas;Électrique;Electric;402.1875;MWe;Nette;Net
+71;2022;Groupe EDF;EDF group;Viêt Nam;Vietnam;Solaire;Solar;Électrique;Electric;34.24784;MWe;Nette;Net
+72;2022;Groupe EDF;EDF group;Pays-Bas;Netherlands;Gaz;Gas;Électrique;Electric;435.0;MWe;Nette;Net
+73;2022;Groupe EDF;EDF group;Chili;Chile;Fioul;Fioul;Électrique;Electric;186.4;MWe;Nette;Net
+74;2022;Groupe EDF;EDF group;Chili;Chile;Gaz;Gas;Électrique;Electric;185.05;MWe;Nette;Net
+75;2022;Groupe EDF;EDF group;Chili;Chile;Éolien;Wind;Électrique;Electric;87.5;MWe;Nette;Net
+76;2022;Groupe EDF;EDF group;Chili;Chile;Solaire;Solar;Électrique;Electric;130.5;MWe;Nette;Net
+77;2022;Groupe EDF;EDF group;Laos;Laos;Hydraulique;Hydraulic;Électrique;Electric;432.0;MWe;Nette;Net
+78;2022;Groupe EDF;EDF group;Maroc;Morocco;Éolien;Wind;Électrique;Electric;33.93;MWe;Nette;Net
+79;2022;Groupe EDF;EDF group;Émirats arabes unis;United Arab Emirates;Solaire;Solar;Électrique;Electric;445.432;MWe;Nette;Net
+80;2022;Groupe EDF;EDF group;Égypte;Egypt;Solaire;Solar;Électrique;Electric;80.21495;MWe;Nette;Net
+81;2022;Groupe EDF;EDF group;Arabie saoudite;Saudi Arabia;Éolien;Wind;Électrique;Electric;148.512;MWe;Nette;Net
+82;2021;Groupe EDF;EDF group;Afrique du Sud;South Africa;Éolien;Wind;Électrique;Electric;73.143;MWe;Nette;Net
+83;2021;Groupe EDF;EDF group;Allemagne;Germany;Hydraulique;Hydraulic;Électrique;Electric;75.5;MWe;Nette;Net
+84;2021;Groupe EDF;EDF group;Allemagne;Germany;Éolien;Wind;Électrique;Electric;173.335383716856;MWe;Nette;Net
+85;2021;Groupe EDF;EDF group;Belgique;Belgium;Nucléaire;Nuclear;Électrique;Electric;768.21655;MWe;Nette;Net
+86;2021;Groupe EDF;EDF group;Belgique;Belgium;Gaz;Gas;Électrique;Electric;828.91314;MWe;Nette;Net
+87;2021;Groupe EDF;EDF group;Belgique;Belgium;Hydraulique;Hydraulic;Électrique;Electric;45.851703;MWe;Nette;Net
+88;2021;Groupe EDF;EDF group;Belgique;Belgium;Éolien;Wind;Électrique;Electric;432.80797;MWe;Nette;Net
+89;2021;Groupe EDF;EDF group;Belgique;Belgium;Solaire;Solar;Électrique;Electric;4.261923;MWe;Nette;Net
+90;2021;Groupe EDF;EDF group;Belgique;Belgium;Fioul;Fioul;Chaleur;Heat;10.01998;MWth;Nette;Net
+91;2021;Groupe EDF;EDF group;Belgique;Belgium;Gaz;Gas;Chaleur;Heat;36.71705;MWth;Nette;Net
+92;2021;Groupe EDF;EDF group;Brésil;Brazil;Gaz;Gas;Électrique;Electric;936.6021;MWe;Nette;Net
+93;2021;Groupe EDF;EDF group;Brésil;Brazil;Hydraulique;Hydraulic;Électrique;Electric;204.96;MWe;Nette;Net
+94;2021;Groupe EDF;EDF group;Brésil;Brazil;Éolien;Wind;Électrique;Electric;479.7;MWe;Nette;Net
+95;2021;Groupe EDF;EDF group;Brésil;Brazil;Solaire;Solar;Électrique;Electric;199.2625;MWe;Nette;Net
+96;2021;Groupe EDF;EDF group;Canada;Canada;Éolien;Wind;Électrique;Electric;618.19;MWe;Nette;Net
+97;2021;Groupe EDF;EDF group;Canada;Canada;Solaire;Solar;Électrique;Electric;42.4;MWe;Nette;Net
+98;2021;Groupe EDF;EDF group;République populaire de Chine;China;Nucléaire;Nuclear;Électrique;Electric;1050.0;MWe;Nette;Net
+99;2021;Groupe EDF;EDF group;République populaire de Chine;China;Charbon;Coal;Électrique;Electric;2020.76;MWe;Nette;Net
+100;2021;Groupe EDF;EDF group;République populaire de Chine;China;Éolien;Wind;Électrique;Electric;442.43425;MWe;Nette;Net
+101;2021;Groupe EDF;EDF group;République populaire de Chine;China;Solaire;Solar;Électrique;Electric;122.81786;MWe;Nette;Net
+102;2021;Groupe EDF;EDF group;République populaire de Chine;China;Biomasse;Biomass;Électrique;Electric;22.8;MWe;Nette;Net
+103;2021;Groupe EDF;EDF group;Espagne;Spain;Gaz;Gas;Électrique;Electric;5.046601686;MWe;Nette;Net
+104;2021;Groupe EDF;EDF group;Espagne;Spain;Solaire;Solar;Électrique;Electric;2.419523283;MWe;Nette;Net
+105;2021;Groupe EDF;EDF group;Espagne;Spain;Gaz;Gas;Chaleur;Heat;122.002434822;MWth;Nette;Net
+106;2021;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Nucléaire;Nuclear;Électrique;Electric;61370.0;MWe;Nette;Net
+107;2021;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Charbon;Coal;Électrique;Electric;1177.6;MWe;Nette;Net
+108;2021;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Fioul;Fioul;Électrique;Electric;3482.74706;MWe;Nette;Net
+109;2021;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Gaz;Gas;Électrique;Electric;3529.251084;MWe;Nette;Net
+110;2021;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Hydraulique;Hydraulic;Électrique;Electric;20500.647072;MWe;Nette;Net
+111;2021;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Géothermie;Geothermal;Électrique;Electric;0.8864;MWe;Nette;Net
+112;2021;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Éolien;Wind;Électrique;Electric;1655.07356;MWe;Nette;Net
+113;2021;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Solaire;Solar;Électrique;Electric;396.646392;MWe;Nette;Net
+114;2021;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Biomasse;Biomass;Électrique;Electric;182.2309498;MWe;Nette;Net
+115;2021;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Énergie marine;Marine energy;Électrique;Electric;240.0;MWe;Nette;Net
+116;2021;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Fioul;Fioul;Chaleur;Heat;917.4492;MWth;Nette;Net
+117;2021;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Gaz;Gas;Chaleur;Heat;20676.296774;MWth;Nette;Net
+118;2021;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Autres ENR;Other Renewable Energies;Chaleur;Heat;2278.081056;MWth;Nette;Net
+119;2021;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Divers;Various;Chaleur;Heat;5762.030706;MWth;Nette;Net
+120;2021;Groupe EDF;EDF group;Grèce;Greece;Gaz;Gas;Électrique;Electric;393.548217;MWe;Nette;Net
+121;2021;Groupe EDF;EDF group;Grèce;Greece;Éolien;Wind;Électrique;Electric;238.200702;MWe;Nette;Net
+122;2021;Groupe EDF;EDF group;Grèce;Greece;Solaire;Solar;Électrique;Electric;30.0889702;MWe;Nette;Net
+123;2021;Groupe EDF;EDF group;Inde;India;Éolien;Wind;Électrique;Electric;261.55;MWe;Nette;Net
+124;2021;Groupe EDF;EDF group;Inde;India;Solaire;Solar;Électrique;Electric;324.675;MWe;Nette;Net
+125;2021;Groupe EDF;EDF group;Israël;Israel;Solaire;Solar;Électrique;Electric;323.342727;MWe;Nette;Net
+126;2021;Groupe EDF;EDF group;Italie;Italy;Gaz;Gas;Électrique;Electric;4282.74678620688;MWe;Nette;Net
+127;2021;Groupe EDF;EDF group;Italie;Italy;Hydraulique;Hydraulic;Électrique;Electric;913.366943044348;MWe;Nette;Net
+128;2021;Groupe EDF;EDF group;Italie;Italy;Éolien;Wind;Électrique;Electric;481.72085802;MWe;Nette;Net
+129;2021;Groupe EDF;EDF group;Italie;Italy;Solaire;Solar;Électrique;Electric;46.535414227305;MWe;Nette;Net
+130;2021;Groupe EDF;EDF group;Italie;Italy;Biomasse;Biomass;Électrique;Electric;2.9034396;MWe;Nette;Net
+131;2021;Groupe EDF;EDF group;Italie;Italy;Divers;Various;Électrique;Electric;7.09341;MWe;Nette;Net
+132;2021;Groupe EDF;EDF group;Italie;Italy;Fioul;Fioul;Chaleur;Heat;4.46982;MWth;Nette;Net
+133;2021;Groupe EDF;EDF group;Italie;Italy;Gaz;Gas;Chaleur;Heat;2751.057606;MWth;Nette;Net
+134;2021;Groupe EDF;EDF group;Italie;Italy;Autres ENR;Other Renewable Energies;Chaleur;Heat;29.0771508;MWth;Nette;Net
+135;2021;Groupe EDF;EDF group;Italie;Italy;Divers;Various;Chaleur;Heat;48.68217;MWth;Nette;Net
+136;2021;Groupe EDF;EDF group;Mexique;Mexico;Éolien;Wind;Électrique;Electric;162.0;MWe;Nette;Net
+137;2021;Groupe EDF;EDF group;Mexique;Mexico;Solaire;Solar;Électrique;Electric;119.6;MWe;Nette;Net
+138;2021;Groupe EDF;EDF group;Pologne;Poland;Charbon;Coal;Électrique;Electric;11.6604;MWe;Nette;Net
+139;2021;Groupe EDF;EDF group;Pologne;Poland;Fioul;Fioul;Électrique;Electric;0.369778;MWe;Nette;Net
+140;2021;Groupe EDF;EDF group;Pologne;Poland;Gaz;Gas;Électrique;Electric;15.870472;MWe;Nette;Net
+141;2021;Groupe EDF;EDF group;Pologne;Poland;Éolien;Wind;Électrique;Electric;68.0;MWe;Nette;Net
+142;2021;Groupe EDF;EDF group;Pologne;Poland;Divers;Various;Électrique;Electric;15.870472;MWe;Nette;Net
+143;2021;Groupe EDF;EDF group;Pologne;Poland;Charbon;Coal;Chaleur;Heat;672.266491;MWth;Nette;Net
+144;2021;Groupe EDF;EDF group;Pologne;Poland;Gaz;Gas;Chaleur;Heat;114.028995;MWth;Nette;Net
+145;2021;Groupe EDF;EDF group;Pologne;Poland;Divers;Various;Chaleur;Heat;74.955;MWth;Nette;Net
+146;2021;Groupe EDF;EDF group;Suisse;Switzerland;Hydraulique;Hydraulic;Électrique;Electric;121.65684;MWe;Nette;Net
+147;2021;Groupe EDF;EDF group;Royaume-Uni;United Kingdom;Nucléaire;Nuclear;Électrique;Electric;6266.4;MWe;Nette;Net
+148;2021;Groupe EDF;EDF group;Royaume-Uni;United Kingdom;Charbon;Coal;Électrique;Electric;1015.0;MWe;Nette;Net
+149;2021;Groupe EDF;EDF group;Royaume-Uni;United Kingdom;Éolien;Wind;Électrique;Electric;366.070696;MWe;Nette;Net
+150;2021;Groupe EDF;EDF group;États-Unis;United States of America;Éolien;Wind;Électrique;Electric;3294.63;MWe;Nette;Net
+151;2021;Groupe EDF;EDF group;États-Unis;United States of America;Solaire;Solar;Électrique;Electric;996.6445;MWe;Nette;Net
+152;2021;Groupe EDF;EDF group;Viêt Nam;Vietnam;Gaz;Gas;Électrique;Electric;402.1875;MWe;Nette;Net
+153;2021;Groupe EDF;EDF group;Pays-Bas;Netherlands;Gaz;Gas;Électrique;Electric;435.0;MWe;Nette;Net
+154;2021;Groupe EDF;EDF group;Chili;Chile;Fioul;Fioul;Électrique;Electric;186.4;MWe;Nette;Net
+155;2021;Groupe EDF;EDF group;Chili;Chile;Gaz;Gas;Électrique;Electric;185.05;MWe;Nette;Net
+156;2021;Groupe EDF;EDF group;Chili;Chile;Éolien;Wind;Électrique;Electric;87.5;MWe;Nette;Net
+157;2021;Groupe EDF;EDF group;Chili;Chile;Solaire;Solar;Électrique;Electric;130.5;MWe;Nette;Net
+158;2021;Groupe EDF;EDF group;Laos;Laos;Hydraulique;Hydraulic;Électrique;Electric;432.0;MWe;Nette;Net
+159;2021;Groupe EDF;EDF group;Maroc;Morocco;Autres ENR;Other Renewable Energies;Chaleur;Heat;1.26321;MWth;Nette;Net
+160;2021;Groupe EDF;EDF group;Émirats arabes unis;United Arab Emirates;Solaire;Solar;Électrique;Electric;170.432;MWe;Nette;Net
+161;2021;Groupe EDF;EDF group;Égypte;Egypt;Solaire;Solar;Électrique;Electric;65.35131;MWe;Nette;Net
+162;2021;Groupe EDF;EDF group;Arabie saoudite;Saudi Arabia;Éolien;Wind;Électrique;Electric;212.16;MWe;Nette;Net
+163;2020;Groupe EDF;EDF group;Afrique du Sud;South Africa;Éolien;Wind;Électrique;Electric;55.76;MWe;Nette;Net
+164;2020;Groupe EDF;EDF group;Allemagne;Germany;Hydraulique;Hydraulic;Électrique;Electric;75.5;MWe;Nette;Net
+165;2020;Groupe EDF;EDF group;Allemagne;Germany;Éolien;Wind;Électrique;Electric;173.34;MWe;Nette;Net
+166;2020;Groupe EDF;EDF group;Belgique;Belgium;Nucléaire;Nuclear;Électrique;Electric;768.21655;MWe;Nette;Net
+167;2020;Groupe EDF;EDF group;Belgique;Belgium;Gaz;Gas;Électrique;Electric;828.91314;MWe;Nette;Net
+168;2020;Groupe EDF;EDF group;Belgique;Belgium;Hydraulique;Hydraulic;Électrique;Electric;45.851703;MWe;Nette;Net
+169;2020;Groupe EDF;EDF group;Belgique;Belgium;Éolien;Wind;Électrique;Electric;402.588661;MWe;Nette;Net
+170;2020;Groupe EDF;EDF group;Belgique;Belgium;Solaire;Solar;Électrique;Electric;1.159462672;MWe;Nette;Net
+171;2020;Groupe EDF;EDF group;Belgique;Belgium;Fioul;Fioul;Chaleur;Heat;10.01998;MWth;Nette;Net
+172;2020;Groupe EDF;EDF group;Belgique;Belgium;Gaz;Gas;Chaleur;Heat;36.71705;MWth;Nette;Net
+173;2020;Groupe EDF;EDF group;Brésil;Brazil;Gaz;Gas;Électrique;Electric;936.9185;MWe;Nette;Net
+174;2020;Groupe EDF;EDF group;Brésil;Brazil;Hydraulique;Hydraulic;Électrique;Electric;204.96;MWe;Nette;Net
+175;2020;Groupe EDF;EDF group;Brésil;Brazil;Éolien;Wind;Électrique;Electric;238.0;MWe;Nette;Net
+176;2020;Groupe EDF;EDF group;Brésil;Brazil;Solaire;Solar;Électrique;Electric;199.26;MWe;Nette;Net
+177;2020;Groupe EDF;EDF group;Canada;Canada;Éolien;Wind;Électrique;Electric;618.19;MWe;Nette;Net
+178;2020;Groupe EDF;EDF group;Canada;Canada;Solaire;Solar;Électrique;Electric;42.4;MWe;Nette;Net
+179;2020;Groupe EDF;EDF group;République populaire de Chine;China;Nucléaire;Nuclear;Électrique;Electric;1050.0;MWe;Nette;Net
+180;2020;Groupe EDF;EDF group;République populaire de Chine;China;Charbon;Coal;Électrique;Electric;1999.76;MWe;Nette;Net
+181;2020;Groupe EDF;EDF group;République populaire de Chine;China;Éolien;Wind;Électrique;Electric;253.74;MWe;Nette;Net
+182;2020;Groupe EDF;EDF group;République populaire de Chine;China;Solaire;Solar;Électrique;Electric;113.15;MWe;Nette;Net
+183;2020;Groupe EDF;EDF group;Espagne;Spain;Gaz;Gas;Électrique;Electric;5.06114371;MWe;Nette;Net
+184;2020;Groupe EDF;EDF group;Espagne;Spain;Solaire;Solar;Électrique;Electric;1.181084255;MWe;Nette;Net
+185;2020;Groupe EDF;EDF group;Espagne;Spain;Gaz;Gas;Chaleur;Heat;122.35399067;MWth;Nette;Net
+186;2020;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Nucléaire;Nuclear;Électrique;Electric;61370.0;MWe;Nette;Net
+187;2020;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Charbon;Coal;Électrique;Electric;1757.6;MWe;Nette;Net
+188;2020;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Fioul;Fioul;Électrique;Electric;3607.3818818;MWe;Nette;Net
+189;2020;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Gaz;Gas;Électrique;Electric;3657.9927926;MWe;Nette;Net
+190;2020;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Hydraulique;Hydraulic;Électrique;Electric;20484.350464;MWe;Nette;Net
+191;2020;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Géothermie;Geothermal;Électrique;Electric;0.8864;MWe;Nette;Net
+192;2020;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Éolien;Wind;Électrique;Electric;1545.76576;MWe;Nette;Net
+193;2020;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Solaire;Solar;Électrique;Electric;290.725392;MWe;Nette;Net
+194;2020;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Biomasse;Biomass;Électrique;Electric;208.2923036;MWe;Nette;Net
+195;2020;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Énergie marine;Marine energy;Électrique;Electric;240.0;MWe;Nette;Net
+196;2020;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Divers;Various;Électrique;Electric;31.9788012;MWe;Nette;Net
+197;2020;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Charbon;Coal;Chaleur;Heat;63.71175;MWth;Nette;Net
+198;2020;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Fioul;Fioul;Chaleur;Heat;926.463788;MWth;Nette;Net
+199;2020;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Gaz;Gas;Chaleur;Heat;20157.678132;MWth;Nette;Net
+200;2020;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Autres ENR;Other Renewable Energies;Chaleur;Heat;2442.762188;MWth;Nette;Net
+201;2020;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Divers;Various;Chaleur;Heat;6226.751706;MWth;Nette;Net
+202;2020;Groupe EDF;EDF group;Grèce;Greece;Gaz;Gas;Électrique;Electric;394.6773725;MWe;Nette;Net
+203;2020;Groupe EDF;EDF group;Grèce;Greece;Éolien;Wind;Électrique;Electric;238.2;MWe;Nette;Net
+204;2020;Groupe EDF;EDF group;Grèce;Greece;Solaire;Solar;Électrique;Electric;12.09;MWe;Nette;Net
+205;2020;Groupe EDF;EDF group;Inde;India;Éolien;Wind;Électrique;Electric;176.5;MWe;Nette;Net
+206;2020;Groupe EDF;EDF group;Inde;India;Solaire;Solar;Électrique;Electric;99.68;MWe;Nette;Net
+207;2020;Groupe EDF;EDF group;Israël;Israel;Solaire;Solar;Électrique;Electric;220.31;MWe;Nette;Net
+208;2020;Groupe EDF;EDF group;Italie;Italy;Gaz;Gas;Électrique;Electric;4392.50536726;MWe;Nette;Net
+209;2020;Groupe EDF;EDF group;Italie;Italy;Hydraulique;Hydraulic;Électrique;Electric;911.535446778;MWe;Nette;Net
+210;2020;Groupe EDF;EDF group;Italie;Italy;Éolien;Wind;Électrique;Electric;432.288814;MWe;Nette;Net
+211;2020;Groupe EDF;EDF group;Italie;Italy;Solaire;Solar;Électrique;Electric;79.3291725;MWe;Nette;Net
+212;2020;Groupe EDF;EDF group;Italie;Italy;Biomasse;Biomass;Électrique;Electric;2.911806;MWe;Nette;Net
+213;2020;Groupe EDF;EDF group;Italie;Italy;Divers;Various;Électrique;Electric;7.11385;MWe;Nette;Net
+214;2020;Groupe EDF;EDF group;Italie;Italy;Fioul;Fioul;Chaleur;Heat;4.4827;MWth;Nette;Net
+215;2020;Groupe EDF;EDF group;Italie;Italy;Gaz;Gas;Chaleur;Heat;2137.5589285;MWth;Nette;Net
+216;2020;Groupe EDF;EDF group;Italie;Italy;Autres ENR;Other Renewable Energies;Chaleur;Heat;31.567953;MWth;Nette;Net
+217;2020;Groupe EDF;EDF group;Italie;Italy;Divers;Various;Chaleur;Heat;48.82245;MWth;Nette;Net
+218;2020;Groupe EDF;EDF group;Mexique;Mexico;Éolien;Wind;Électrique;Electric;162.0;MWe;Nette;Net
+219;2020;Groupe EDF;EDF group;Mexique;Mexico;Solaire;Solar;Électrique;Electric;119.6;MWe;Nette;Net
+220;2020;Groupe EDF;EDF group;Pologne;Poland;Charbon;Coal;Électrique;Electric;11.694;MWe;Nette;Net
+221;2020;Groupe EDF;EDF group;Pologne;Poland;Fioul;Fioul;Électrique;Electric;0.369778;MWe;Nette;Net
+222;2020;Groupe EDF;EDF group;Pologne;Poland;Gaz;Gas;Électrique;Electric;15.870472;MWe;Nette;Net
+223;2020;Groupe EDF;EDF group;Pologne;Poland;Divers;Various;Électrique;Electric;15.870472;MWe;Nette;Net
+224;2020;Groupe EDF;EDF group;Pologne;Poland;Charbon;Coal;Chaleur;Heat;708.557095;MWth;Nette;Net
+225;2020;Groupe EDF;EDF group;Pologne;Poland;Gaz;Gas;Chaleur;Heat;112.018775;MWth;Nette;Net
+226;2020;Groupe EDF;EDF group;Pologne;Poland;Divers;Various;Chaleur;Heat;74.955;MWth;Nette;Net
+227;2020;Groupe EDF;EDF group;Portugal;Portugal;Éolien;Wind;Électrique;Electric;204.94;MWe;Nette;Net
+228;2020;Groupe EDF;EDF group;Suisse;Switzerland;Hydraulique;Hydraulic;Électrique;Electric;122.0074;MWe;Nette;Net
+229;2020;Groupe EDF;EDF group;Turquie;Turkey;Éolien;Wind;Électrique;Electric;279.5;MWe;Nette;Net
+230;2020;Groupe EDF;EDF group;Turquie;Turkey;Solaire;Solar;Électrique;Electric;18.2;MWe;Nette;Net
+231;2020;Groupe EDF;EDF group;Royaume-Uni;United Kingdom;Nucléaire;Nuclear;Électrique;Electric;7138.4;MWe;Nette;Net
+232;2020;Groupe EDF;EDF group;Royaume-Uni;United Kingdom;Charbon;Coal;Électrique;Electric;1987.0;MWe;Nette;Net
+233;2020;Groupe EDF;EDF group;Royaume-Uni;United Kingdom;Gaz;Gas;Électrique;Electric;1333.0;MWe;Nette;Net
+234;2020;Groupe EDF;EDF group;Royaume-Uni;United Kingdom;Éolien;Wind;Électrique;Electric;386.41;MWe;Nette;Net
+235;2020;Groupe EDF;EDF group;Royaume-Uni;United Kingdom;Biomasse;Biomass;Électrique;Electric;3.9976;MWe;Nette;Net
+236;2020;Groupe EDF;EDF group;Royaume-Uni;United Kingdom;Divers;Various;Électrique;Electric;3.9976;MWe;Nette;Net
+237;2020;Groupe EDF;EDF group;Royaume-Uni;United Kingdom;Autres ENR;Other Renewable Energies;Chaleur;Heat;14.991;MWth;Nette;Net
+238;2020;Groupe EDF;EDF group;Royaume-Uni;United Kingdom;Divers;Various;Chaleur;Heat;14.991;MWth;Nette;Net
+239;2020;Groupe EDF;EDF group;États-Unis;United States of America;Nucléaire;Nuclear;Électrique;Electric;2020.0959;MWe;Nette;Net
+240;2020;Groupe EDF;EDF group;États-Unis;United States of America;Éolien;Wind;Électrique;Electric;3154.35;MWe;Nette;Net
+241;2020;Groupe EDF;EDF group;États-Unis;United States of America;Solaire;Solar;Électrique;Electric;635.66;MWe;Nette;Net
+242;2020;Groupe EDF;EDF group;Viêt Nam;Vietnam;Gaz;Gas;Électrique;Electric;402.1875;MWe;Nette;Net
+243;2020;Groupe EDF;EDF group;Pays-Bas;Netherlands;Gaz;Gas;Électrique;Electric;435.0;MWe;Nette;Net
+244;2020;Groupe EDF;EDF group;Chili;Chile;Fioul;Fioul;Électrique;Electric;186.375;MWe;Nette;Net
+245;2020;Groupe EDF;EDF group;Chili;Chile;Gaz;Gas;Électrique;Electric;184.83;MWe;Nette;Net
+246;2020;Groupe EDF;EDF group;Chili;Chile;Éolien;Wind;Électrique;Electric;57.5;MWe;Nette;Net
+247;2020;Groupe EDF;EDF group;Chili;Chile;Solaire;Solar;Électrique;Electric;130.5;MWe;Nette;Net
+248;2020;Groupe EDF;EDF group;Laos;Laos;Hydraulique;Hydraulic;Électrique;Electric;432.0;MWe;Nette;Net
+249;2020;Groupe EDF;EDF group;Maroc;Morocco;Autres ENR;Other Renewable Energies;Chaleur;Heat;1.2541815;MWth;Nette;Net
+250;2020;Groupe EDF;EDF group;Émirats arabes unis;United Arab Emirates;Solaire;Solar;Électrique;Electric;170.43;MWe;Nette;Net
+251;2020;Groupe EDF;EDF group;Égypte;Egypt;Solaire;Solar;Électrique;Electric;65.19;MWe;Nette;Net
+252;2019;Groupe EDF;EDF group;Afrique du Sud;South Africa;Éolien;Wind;Électrique;Electric;55.76;MWe;Nette;Net
+253;2019;Groupe EDF;EDF group;Allemagne;Germany;Éolien;Wind;Électrique;Electric;185.34;MWe;Nette;Net
+254;2019;Groupe EDF;EDF group;Belgique;Belgium;Nucléaire;Nuclear;Électrique;Electric;768.21655;MWe;Nette;Net
+255;2019;Groupe EDF;EDF group;Belgique;Belgium;Gaz;Gas;Électrique;Electric;828.91314;MWe;Nette;Net
+256;2019;Groupe EDF;EDF group;Belgique;Belgium;Hydraulique;Hydraulic;Électrique;Electric;45.851703;MWe;Nette;Net
+257;2019;Groupe EDF;EDF group;Belgique;Belgium;Éolien;Wind;Électrique;Electric;358.370352;MWe;Nette;Net
+258;2019;Groupe EDF;EDF group;Belgique;Belgium;Solaire;Solar;Électrique;Electric;1.159462672;MWe;Nette;Net
+259;2019;Groupe EDF;EDF group;Belgique;Belgium;Fioul;Fioul;Chaleur;Heat;10.01998;MWth;Nette;Net
+260;2019;Groupe EDF;EDF group;Belgique;Belgium;Gaz;Gas;Chaleur;Heat;36.71705;MWth;Nette;Net
+261;2019;Groupe EDF;EDF group;Brésil;Brazil;Gaz;Gas;Électrique;Electric;936.9185;MWe;Nette;Net
+262;2019;Groupe EDF;EDF group;Brésil;Brazil;Hydraulique;Hydraulic;Électrique;Electric;204.9588;MWe;Nette;Net
+263;2019;Groupe EDF;EDF group;Brésil;Brazil;Éolien;Wind;Électrique;Electric;182.0;MWe;Nette;Net
+264;2019;Groupe EDF;EDF group;Brésil;Brazil;Solaire;Solar;Électrique;Electric;199.26;MWe;Nette;Net
+265;2019;Groupe EDF;EDF group;Canada;Canada;Éolien;Wind;Électrique;Electric;618.44;MWe;Nette;Net
+266;2019;Groupe EDF;EDF group;Canada;Canada;Solaire;Solar;Électrique;Electric;42.4;MWe;Nette;Net
+267;2019;Groupe EDF;EDF group;République populaire de Chine;China;Nucléaire;Nuclear;Électrique;Electric;1050.0;MWe;Nette;Net
+268;2019;Groupe EDF;EDF group;République populaire de Chine;China;Charbon;Coal;Électrique;Electric;1999.76;MWe;Nette;Net
+269;2019;Groupe EDF;EDF group;République populaire de Chine;China;Éolien;Wind;Électrique;Electric;102.61;MWe;Nette;Net
+270;2019;Groupe EDF;EDF group;République populaire de Chine;China;Solaire;Solar;Électrique;Electric;79.12;MWe;Nette;Net
+271;2019;Groupe EDF;EDF group;Espagne;Spain;Gaz;Gas;Électrique;Electric;5.06211821;MWe;Nette;Net
+272;2019;Groupe EDF;EDF group;Espagne;Spain;Solaire;Solar;Électrique;Electric;0.087695255;MWe;Nette;Net
+273;2019;Groupe EDF;EDF group;Espagne;Spain;Gaz;Gas;Chaleur;Heat;81.95122067;MWth;Nette;Net
+274;2019;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Nucléaire;Nuclear;Électrique;Electric;63130.0;MWe;Nette;Net
+275;2019;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Charbon;Coal;Électrique;Electric;1757.5758;MWe;Nette;Net
+276;2019;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Fioul;Fioul;Électrique;Electric;4032.64770602;MWe;Nette;Net
+277;2019;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Gaz;Gas;Électrique;Electric;3328.83927;MWe;Nette;Net
+278;2019;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Hydraulique;Hydraulic;Électrique;Electric;20547.6268578;MWe;Nette;Net
+279;2019;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Géothermie;Geothermal;Électrique;Electric;0.8864;MWe;Nette;Net
+280;2019;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Éolien;Wind;Électrique;Electric;1503.26576;MWe;Nette;Net
+281;2019;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Solaire;Solar;Électrique;Electric;260.29741904;MWe;Nette;Net
+282;2019;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Biomasse;Biomass;Électrique;Electric;230.824776;MWe;Nette;Net
+283;2019;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Énergie marine;Marine energy;Électrique;Electric;240.0;MWe;Nette;Net
+284;2019;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Divers;Various;Électrique;Electric;58.235038;MWe;Nette;Net
+285;2019;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Charbon;Coal;Chaleur;Heat;140.935388;MWth;Nette;Net
+286;2019;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Fioul;Fioul;Chaleur;Heat;926.463788;MWth;Nette;Net
+287;2019;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Gaz;Gas;Chaleur;Heat;20157.678132;MWth;Nette;Net
+288;2019;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Autres ENR;Other Renewable Energies;Chaleur;Heat;2441.173142;MWth;Nette;Net
+289;2019;Groupe EDF;EDF group;France (ISO 3166:FR);France (ISO 3166:FR);Divers;Various;Chaleur;Heat;6277.221406;MWth;Nette;Net
+290;2019;Groupe EDF;EDF group;Grèce;Greece;Gaz;Gas;Électrique;Electric;394.6773725;MWe;Nette;Net
+291;2019;Groupe EDF;EDF group;Grèce;Greece;Éolien;Wind;Électrique;Electric;238.2;MWe;Nette;Net
+292;2019;Groupe EDF;EDF group;Grèce;Greece;Solaire;Solar;Électrique;Electric;12.09;MWe;Nette;Net
+293;2019;Groupe EDF;EDF group;Inde;India;Éolien;Wind;Électrique;Electric;176.5;MWe;Nette;Net
+294;2019;Groupe EDF;EDF group;Inde;India;Solaire;Solar;Électrique;Electric;99.68;MWe;Nette;Net
+295;2019;Groupe EDF;EDF group;Israël;Israel;Solaire;Solar;Électrique;Electric;192.5;MWe;Nette;Net
+296;2019;Groupe EDF;EDF group;Italie;Italy;Gaz;Gas;Électrique;Electric;4455.20464817;MWe;Nette;Net
+297;2019;Groupe EDF;EDF group;Italie;Italy;Hydraulique;Hydraulic;Électrique;Electric;911.332341802;MWe;Nette;Net
+298;2019;Groupe EDF;EDF group;Italie;Italy;Éolien;Wind;Électrique;Electric;407.222093524;MWe;Nette;Net
+299;2019;Groupe EDF;EDF group;Italie;Italy;Solaire;Solar;Électrique;Electric;82.2962580942;MWe;Nette;Net
+300;2019;Groupe EDF;EDF group;Italie;Italy;Divers;Various;Électrique;Electric;7.11385;MWe;Nette;Net
+301;2019;Groupe EDF;EDF group;Italie;Italy;Gaz;Gas;Chaleur;Heat;2176.458045;MWth;Nette;Net
+302;2019;Groupe EDF;EDF group;Italie;Italy;Autres ENR;Other Renewable Energies;Chaleur;Heat;26.79875;MWth;Nette;Net
+303;2019;Groupe EDF;EDF group;Italie;Italy;Divers;Various;Chaleur;Heat;48.82245;MWth;Nette;Net
+304;2019;Groupe EDF;EDF group;Mexique;Mexico;Éolien;Wind;Électrique;Electric;229.5;MWe;Nette;Net
+305;2019;Groupe EDF;EDF group;Mexique;Mexico;Solaire;Solar;Électrique;Electric;119.6;MWe;Nette;Net
+306;2019;Groupe EDF;EDF group;Pologne;Poland;Charbon;Coal;Électrique;Electric;11.694;MWe;Nette;Net
+307;2019;Groupe EDF;EDF group;Pologne;Poland;Fioul;Fioul;Électrique;Electric;0.369778;MWe;Nette;Net
+308;2019;Groupe EDF;EDF group;Pologne;Poland;Gaz;Gas;Électrique;Electric;15.870472;MWe;Nette;Net
+309;2019;Groupe EDF;EDF group;Pologne;Poland;Divers;Various;Électrique;Electric;15.870472;MWe;Nette;Net
+310;2019;Groupe EDF;EDF group;Pologne;Poland;Charbon;Coal;Chaleur;Heat;827.543545;MWth;Nette;Net
+311;2019;Groupe EDF;EDF group;Pologne;Poland;Gaz;Gas;Chaleur;Heat;0.925775;MWth;Nette;Net
+312;2019;Groupe EDF;EDF group;Pologne;Poland;Divers;Various;Chaleur;Heat;74.955;MWth;Nette;Net
+313;2019;Groupe EDF;EDF group;Portugal;Portugal;Éolien;Wind;Électrique;Electric;204.97;MWe;Nette;Net
+314;2019;Groupe EDF;EDF group;Suisse;Switzerland;Hydraulique;Hydraulic;Électrique;Electric;122.0074;MWe;Nette;Net
+315;2019;Groupe EDF;EDF group;Turquie;Turkey;Éolien;Wind;Électrique;Electric;267.41;MWe;Nette;Net
+316;2019;Groupe EDF;EDF group;Turquie;Turkey;Solaire;Solar;Électrique;Electric;18.2;MWe;Nette;Net
+317;2019;Groupe EDF;EDF group;Royaume-Uni;United Kingdom;Nucléaire;Nuclear;Électrique;Electric;7138.4;MWe;Nette;Net
+318;2019;Groupe EDF;EDF group;Royaume-Uni;United Kingdom;Charbon;Coal;Électrique;Electric;1987.0;MWe;Nette;Net
+319;2019;Groupe EDF;EDF group;Royaume-Uni;United Kingdom;Gaz;Gas;Électrique;Electric;1333.0;MWe;Nette;Net
+320;2019;Groupe EDF;EDF group;Royaume-Uni;United Kingdom;Éolien;Wind;Électrique;Electric;384.225;MWe;Nette;Net
+321;2019;Groupe EDF;EDF group;Royaume-Uni;United Kingdom;Biomasse;Biomass;Électrique;Electric;3.9976;MWe;Nette;Net
+322;2019;Groupe EDF;EDF group;Royaume-Uni;United Kingdom;Divers;Various;Électrique;Electric;3.9976;MWe;Nette;Net
+323;2019;Groupe EDF;EDF group;Royaume-Uni;United Kingdom;Divers;Various;Chaleur;Heat;14.991;MWth;Nette;Net
+324;2019;Groupe EDF;EDF group;États-Unis;United States of America;Nucléaire;Nuclear;Électrique;Electric;2020.0959;MWe;Nette;Net
+325;2019;Groupe EDF;EDF group;États-Unis;United States of America;Éolien;Wind;Électrique;Electric;2855.41;MWe;Nette;Net
+326;2019;Groupe EDF;EDF group;États-Unis;United States of America;Solaire;Solar;Électrique;Electric;340.85;MWe;Nette;Net
+327;2019;Groupe EDF;EDF group;Viêt Nam;Vietnam;Gaz;Gas;Électrique;Electric;402.1875;MWe;Nette;Net
+328;2019;Groupe EDF;EDF group;Pays-Bas;Netherlands;Gaz;Gas;Électrique;Electric;435.0;MWe;Nette;Net
+329;2019;Groupe EDF;EDF group;Chili;Chile;Fioul;Fioul;Électrique;Electric;130.895;MWe;Nette;Net
+330;2019;Groupe EDF;EDF group;Chili;Chile;Gaz;Gas;Électrique;Electric;185.05;MWe;Nette;Net
+331;2019;Groupe EDF;EDF group;Chili;Chile;Éolien;Wind;Électrique;Electric;57.5;MWe;Nette;Net
+332;2019;Groupe EDF;EDF group;Chili;Chile;Solaire;Solar;Électrique;Electric;130.5;MWe;Nette;Net
+333;2019;Groupe EDF;EDF group;Laos;Laos;Hydraulique;Hydraulic;Électrique;Electric;432.0;MWe;Nette;Net
+334;2019;Groupe EDF;EDF group;Émirats arabes unis;United Arab Emirates;Solaire;Solar;Électrique;Electric;105.63;MWe;Nette;Net
+335;2019;Groupe EDF;EDF group;Autres pays;Various countries;Solaire;Solar;Électrique;Electric;65.0;MWe;Nette;Net
