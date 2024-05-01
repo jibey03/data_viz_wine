@@ -1,4 +1,4 @@
-# README.md - Analyse des Capacités de Production d'Énergie d'EDF et Qualité du Vin
+# Analyse des Capacités de Production d'Énergie d'EDF et Qualité du Vin
 
 ## Description du projet
 
